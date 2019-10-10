@@ -1,2 +1,3 @@
 # Practical projects
-Projects that I found in internet and try them myself
+I only look at name of program and what that supposed to do.
+The rest is my trying to present the same effect.
